@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AgreementRepositoryTest$InvokeQueryAgreementTransaction" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-01T10:40:40" hostname="WIN-P8T70NV00PI" time="0.442">
+  <properties/>
+  <testcase name="whenCarDoesNotExist()" classname="AgreementRepositoryTest$InvokeQueryAgreementTransaction" time="0.413"/>
+  <testcase name="whenAgreementExists()" classname="AgreementRepositoryTest$InvokeQueryAgreementTransaction" time="0.028"/>
+  <system-out><![CDATA[Agreement ARG000 does not exist
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
